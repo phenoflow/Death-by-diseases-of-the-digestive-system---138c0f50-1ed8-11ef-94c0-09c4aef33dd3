@@ -1,0 +1,306 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/hepatic-death-by-diseases-of-the-digestive-system-natural-cause---secondary.py
+inputModule3:
+  class: File
+  path: python/apical-death-by-diseases-of-the-digestive-system-natural-cause---secondary.py
+inputModule4:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-unspec---secondary.py
+inputModule5:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-intest---secondary.py
+inputModule6:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-supporting---secondary.py
+inputModule7:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-pancreatitis---secondary.py
+inputModule8:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-duodenitis---secondary.py
+inputModule9:
+  class: File
+  path: python/haemorrhagic-death-by-diseases-of-the-digestive-system-natural-cause---secondary.py
+inputModule10:
+  class: File
+  path: python/abdominal-death-by-diseases-of-the-digestive-system-natural-cause---secondary.py
+inputModule11:
+  class: File
+  path: python/persistent-death-by-diseases-of-the-digestive-system-natural-cause---secondary.py
+inputModule12:
+  class: File
+  path: python/divertic-death-by-diseases-of-the-digestive-system-natural-cause---secondary.py
+inputModule13:
+  class: File
+  path: python/infectious-death-by-diseases-of-the-digestive-system-natural-cause---secondary.py
+inputModule14:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-inflammatory---secondary.py
+inputModule15:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-gland---secondary.py
+inputModule16:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-absce---secondary.py
+inputModule17:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-failure---secondary.py
+inputModule18:
+  class: File
+  path: python/gastrointestinal-death-by-diseases-of-the-digestive-system-natural-cause---secondary.py
+inputModule19:
+  class: File
+  path: python/central-death-by-diseases-of-the-digestive-system-natural-cause---secondary.py
+inputModule20:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-mucosa---secondary.py
+inputModule21:
+  class: File
+  path: python/ulcerative-death-by-diseases-of-the-digestive-system-natural-cause---secondary.py
+inputModule22:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-tissue---secondary.py
+inputModule23:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-cholecystitis---secondary.py
+inputModule24:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-fibrosis---secondary.py
+inputModule25:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-galbladder---secondary.py
+inputModule26:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-tract---secondary.py
+inputModule27:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-tongue---secondary.py
+inputModule28:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-oesophagu---secondary.py
+inputModule29:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-appendix---secondary.py
+inputModule30:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-enteritis---secondary.py
+inputModule31:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-related---secondary.py
+inputModule32:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-proctitis---secondary.py
+inputModule33:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-classified---secondary.py
+inputModule34:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-impacted---secondary.py
+inputModule35:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-obstruct---secondary.py
+inputModule36:
+  class: File
+  path: python/large-death-by-diseases-of-the-digestive-system-natural-cause---secondary.py
+inputModule37:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-specified---secondary.py
+inputModule38:
+  class: File
+  path: python/developmental-death-by-diseases-of-the-digestive-system-natural-cause---secondary.py
+inputModule39:
+  class: File
+  path: python/unilateral-death-by-diseases-of-the-digestive-system-natural-cause---secondary.py
+inputModule40:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-appendicitis---secondary.py
+inputModule41:
+  class: File
+  path: python/diaphragmatic-death-by-diseases-of-the-digestive-system-natural-cause---secondary.py
+inputModule42:
+  class: File
+  path: python/fatty-death-by-diseases-of-the-digestive-system-natural-cause---secondary.py
+inputModule43:
+  class: File
+  path: python/dental-death-by-diseases-of-the-digestive-system-natural-cause---secondary.py
+inputModule44:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-including---secondary.py
+inputModule45:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-hepatitis---secondary.py
+inputModule46:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-cholangitis---secondary.py
+inputModule47:
+  class: File
+  path: python/anorectal-death-by-diseases-of-the-digestive-system-natural-cause---secondary.py
+inputModule48:
+  class: File
+  path: python/active-death-by-diseases-of-the-digestive-system-natural-cause---secondary.py
+inputModule49:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-necrosis---secondary.py
+inputModule50:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-liver---secondary.py
+inputModule51:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-atrophy---secondary.py
+inputModule52:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-radiation---secondary.py
+inputModule53:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-stenosis---secondary.py
+inputModule54:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-hyperplasia---secondary.py
+inputModule55:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-peritonitis---secondary.py
+inputModule56:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause---secondary.py
+inputModule57:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-papillae---secondary.py
+inputModule58:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-colon---secondary.py
+inputModule59:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-gingivitis---secondary.py
+inputModule60:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-rectum---secondary.py
+inputModule61:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-hypertrophy---secondary.py
+inputModule62:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-sclerosis---secondary.py
+inputModule63:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-peritoneum---secondary.py
+inputModule64:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-gingival---secondary.py
+inputModule65:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-cholelithiasis---secondary.py
+inputModule66:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-disturbance---secondary.py
+inputModule67:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-prolapse---secondary.py
+inputModule68:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-glossitis---secondary.py
+inputModule69:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-spasm---secondary.py
+inputModule70:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-formation---secondary.py
+inputModule71:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-dyspepsia---secondary.py
+inputModule72:
+  class: File
+  path: python/umbilical-death-by-diseases-of-the-digestive-system-natural-cause---secondary.py
+inputModule73:
+  class: File
+  path: python/irritable-death-by-diseases-of-the-digestive-system-natural-cause---secondary.py
+inputModule74:
+  class: File
+  path: python/toxic-death-by-diseases-of-the-digestive-system-natural-cause---secondary.py
+inputModule75:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-polyp---secondary.py
+inputModule76:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-calculus---secondary.py
+inputModule77:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-oesophagitis---secondary.py
+inputModule78:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-lesion---secondary.py
+inputModule79:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-leukoplakia---secondary.py
+inputModule80:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-duodenum---secondary.py
+inputModule81:
+  class: File
+  path: python/lobular-death-by-diseases-of-the-digestive-system-natural-cause---secondary.py
+inputModule82:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-abnormality---secondary.py
+inputModule83:
+  class: File
+  path: python/regional-death-by-diseases-of-the-digestive-system-natural-cause---secondary.py
+inputModule84:
+  class: File
+  path: python/tuberculous-death-by-diseases-of-the-digestive-system-natural-cause---secondary.py
+inputModule85:
+  class: File
+  path: python/chronic-death-by-diseases-of-the-digestive-system-natural-cause---secondary.py
+inputModule86:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-diarrhoea---secondary.py
+inputModule87:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-reflux---secondary.py
+inputModule88:
+  class: File
+  path: python/small-death-by-diseases-of-the-digestive-system-natural-cause---secondary.py
+inputModule89:
+  class: File
+  path: python/alcoholic-death-by-diseases-of-the-digestive-system-natural-cause---secondary.py
+inputModule90:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-periodontitis---secondary.py
+inputModule91:
+  class: File
+  path: python/peritoneal-death-by-diseases-of-the-digestive-system-natural-cause---secondary.py
+inputModule92:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-inguin---secondary.py
+inputModule93:
+  class: File
+  path: python/gastrojejunal-death-by-diseases-of-the-digestive-system-natural-cause---secondary.py
+inputModule94:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-granuloma---secondary.py
+inputModule95:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-relationship---secondary.py
+inputModule96:
+  class: File
+  path: python/femoral-death-by-diseases-of-the-digestive-system-natural-cause---secondary.py
+inputModule97:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-fistula---secondary.py
+inputModule98:
+  class: File
+  path: python/system---secondary.py
+inputModule99:
+  class: File
+  path: python/portal-death-by-diseases-of-the-digestive-system-natural-cause---secondary.py
+inputModule100:
+  class: File
+  path: python/death-by-diseases-of-the-digestive-system-natural-cause-surgery---secondary.py
+inputModule101:
+  class: File
+  path: python/gastrooesophageal-death-by-diseases-of-the-digestive-system-natural-cause---secondary.py
+inputModule102:
+  class: File
+  path: python/output-cases.py
